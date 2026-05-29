@@ -32,7 +32,7 @@ data-driven decisions to optimize their menu and increase revenue.
 
 ## 📸 Dashboard Preview
 
-![Pizza Order Dashboard](Pizza%20Order%20Dashboard%202.png)
+![Pizza Order Dashboard](Pizza%20Order%20Dashboard%20(2).png)
 
 ## 👩 About Me
 
